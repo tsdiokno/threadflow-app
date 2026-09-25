@@ -1,11 +1,20 @@
 # ThreadFlow — Threads as a Project Management Single Source of Truth (SSOT)
 
-[![MVP: Proof of Concept](https://img.shields.io/badge/MVP-Proof_of_Concept-indigo.svg)](https://github.com)
-[![Status: Active Testing](https://img.shields.io/badge/Status-Active_Testing-emerald.svg)](https://github.com)
-[![Paradigm: Chat--Native_SSOT](https://img.shields.io/badge/Paradigm-Chat--Native_SSOT-blue.svg)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-slate.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-threadflow--app--five.vercel.app-2563eb.svg?style=for-the-badge&logo=vercel)](https://threadflow-app-five.vercel.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-slate.svg?style=for-the-badge)](LICENSE)
+[![MVP: Proof of Concept](https://img.shields.io/badge/MVP-Proof_of_Concept-indigo.svg)](https://threadflow-app-five.vercel.app/)
+[![Status: Active Testing](https://img.shields.io/badge/Status-Active_Testing-emerald.svg)](https://threadflow-app-five.vercel.app/)
+[![Paradigm: Chat--Native_SSOT](https://img.shields.io/badge/Paradigm-Chat--Native_SSOT-blue.svg)](https://threadflow-app-five.vercel.app/)
 
 > **A Proof-of-Concept exploring how conversations, decisions, files, and tasks converge into a single unified workspace where threads serve as the ultimate Single Source of Truth (SSOT).**
+
+🚀 **Live Interactive Demo:** [https://threadflow-app-five.vercel.app/](https://threadflow-app-five.vercel.app/)
+
+---
+
+## 🖥️ Workspace Preview
+
+![ThreadFlow Workspace Interface](screenshot.png)
 
 ---
 
@@ -124,7 +133,10 @@ ThreadFlow is specifically tailored for teams, digital natives, and workflows th
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Try the live application directly in your browser:
+👉 **[https://threadflow-app-five.vercel.app/](https://threadflow-app-five.vercel.app/)**
+
+### Local Setup Prerequisites
 - Node.js 20+
 - npm, pnpm, or bun
 
