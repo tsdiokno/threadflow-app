@@ -1,0 +1,6 @@
+{
+  "name": "TagChat",
+  "description": "Threads as a Project Management Single Source of Truth (SSOT). Real-time collaboration, first-class tagging as an integrated documentation instrument, interactive polls, deep linking, and thread-scoped file annotations for high-velocity teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
