@@ -14,7 +14,7 @@
 
 ## 🖥️ Workspace Preview
 
-![ThreadFlow Workspace Interface](screenshot.png)
+![ThreadFlow Workspace Interface](threadflow-screenshot.png)
 
 ---
 
